@@ -1,0 +1,66 @@
+body {
+    background-color:black;
+    margin: 0;
+    padding: 0;
+}
+.mainDiv {
+    height: 1200px;
+    width: 1200px;
+    background-color:blue;
+    /*border-radius: 50%;*/
+    border: 5px solid black;
+    margin: 0 auto;
+    font-size: 0;
+
+}
+   
+.mainDiv > div {
+    display: inline-block;
+height: 400px;
+width: 400px;
+margin: 2 auto;
+border: 3px solid black;
+box-sizing: border-box;
+font-size: 0;
+
+}
+
+.red {
+background-color: yellow;
+/*border-radius: 50%;*/
+}
+
+.yellow {
+background-color: rgb(232, 248, 0);
+border-radius: 50%;
+}
+
+.green {
+background-color: rgb(30, 255, 0);
+/*border-radius: 50%;*/
+}
+.redcircle {
+    background-color: red;
+    border-radius: 50%;
+}
+.yellowcircle {
+    background-color: rgb(232, 248, 0);
+    /*border-radius: 50%;*/
+}.redblock {
+    background-color: red;
+   /* border-radius: 50%;*/
+    background-color: rgb(30, 255, 0);
+    /*border-radius: 50%;*/
+    }
+    .yellowkvadrat{
+        background-color: rgb(232, 248, 0);
+        /*border-radius: 50%;*/
+    }
+    .greencircle  {
+        background-color: rgb(30, 255, 0);
+        border-radius: 50%;
+        }
+   
+   
+   
+   
